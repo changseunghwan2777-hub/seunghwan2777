@@ -1,0 +1,48 @@
+[
+  {
+    "file": "01_Overlap_Model_Families_A2.pdf",
+    "pages": 1,
+    "size_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "02_Parameter_Selection_A2.pdf",
+    "pages": 1,
+    "size_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "03_Void_Policy_And_Lineage_A2.pdf",
+    "pages": 1,
+    "size_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "04_Overlap_Development_A2.pdf",
+    "pages": 1,
+    "size_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "05_Selected_Model_Plan_A2.pdf",
+    "pages": 1,
+    "size_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "M4_Selected_Massing.obj",
+    "vertices": 30,
+    "faces": 45,
+    "manifold_edge_incidence": 2
+  }
+]

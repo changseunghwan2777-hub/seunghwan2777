@@ -1,0 +1,39 @@
+{
+  "area_partition": {
+    "M1": true,
+    "M2": true,
+    "M3": true,
+    "M4": true,
+    "M5": true,
+    "R0.40_P0": true,
+    "R0.40_P15": true,
+    "R0.40_P30": true,
+    "R0.45_P0": true,
+    "R0.45_P15": true,
+    "R0.45_P30": true,
+    "R0.50_P0": true,
+    "R0.50_P15": true,
+    "R0.50_P30": true,
+    "R0": true
+  },
+  "symmetry": {
+    "M3": 2.7733294671147087e-08,
+    "M4": 2.6329597515092513e-08,
+    "M5": 1.8588471883012947e-08
+  },
+  "void_policy_components": {
+    "P0": 1,
+    "P1": 3,
+    "P2": 4,
+    "P3": 1
+  },
+  "route_centre_lines_no_wall_furniture_or_void_crossing": true,
+  "furniture_in_assigned_regions": 9,
+  "twofold_before_triple_on_module_axis": {
+    "start_joint": 0.7995158903667365,
+    "start_triple": 0.8807293552741176,
+    "joint_segment": 0.08121346490738124
+  },
+  "no_missing_svg_font_glyphs": true,
+  "scope": "Geometry, positive-area topology with 1e-6 u probe, route centre lines and glyph coverage only. No code, structure, effective clear widths, daylight or real site validation."
+}

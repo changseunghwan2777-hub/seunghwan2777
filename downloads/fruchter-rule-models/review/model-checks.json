@@ -1,0 +1,42 @@
+{
+  "models": [
+    {
+      "model": "M1",
+      "closed_mesh": true,
+      "faces": 108,
+      "vertices": 72
+    },
+    {
+      "model": "M2",
+      "closed_mesh": true,
+      "faces": 32,
+      "vertices": 24
+    },
+    {
+      "model": "M3",
+      "closed_mesh": true,
+      "faces": 36,
+      "vertices": 24
+    },
+    {
+      "model": "M4",
+      "closed_mesh": true,
+      "faces": 45,
+      "vertices": 30
+    },
+    {
+      "model": "M5",
+      "closed_mesh": true,
+      "faces": 36,
+      "vertices": 24
+    }
+  ],
+  "native_3dm_roundtrip": true,
+  "native_objects": 122,
+  "native_layers": 52,
+  "obj_vertices": 30,
+  "obj_faces": 45,
+  "height_u": 0.55,
+  "Rhino_desktop_executed": false,
+  "scope": "Closed schematic mass meshes, not resolved walls, glazing or construction."
+}

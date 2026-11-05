@@ -1,0 +1,242 @@
+[
+  {
+    "path": "01_Overlap_Model_Families_A2.pdf",
+    "bytes": 328430,
+    "sha256": "c24d2d73b7438def345163f9daeabbf673d778c95adf35865a882e751d336295"
+  },
+  {
+    "path": "01_Overlap_Model_Families_A2.png",
+    "bytes": 437441,
+    "sha256": "26a727591414af720620b5b58db218c71b66a3c0d0810bba59e1727b07534367"
+  },
+  {
+    "path": "01_Overlap_Model_Families_A2.svg",
+    "bytes": 37463,
+    "sha256": "2ab461e3bab06ef4b2ccecebe45acc404e6fee74efd5cf8a617899ac1af0b280"
+  },
+  {
+    "path": "01_Overlap_Model_Families_A2_outlined.svg",
+    "bytes": 464084,
+    "sha256": "7a1d7ed9f4427b5f49d39468f94da5d6048507b40a3ec7c2cedaaf53ff7274e6"
+  },
+  {
+    "path": "02_Parameter_Selection_A2.pdf",
+    "bytes": 299532,
+    "sha256": "7e958bc7db730e46e152fe564fd655eb4a2803c9f157f07b3bb4a30ccdca472f"
+  },
+  {
+    "path": "02_Parameter_Selection_A2.png",
+    "bytes": 431959,
+    "sha256": "976c0a6aeacb2758727439c6223273611ad2c1e3feb2c18569d34653201f54c0"
+  },
+  {
+    "path": "02_Parameter_Selection_A2.svg",
+    "bytes": 26732,
+    "sha256": "22863ed6dc0b3e8f403675d8c3ba2a03ee1b2fa470148f9cc30a1c66b5ce31d1"
+  },
+  {
+    "path": "02_Parameter_Selection_A2_outlined.svg",
+    "bytes": 428260,
+    "sha256": "24e32580a58fe8944a6574db1facb909b5a7bb3c9fb8c4d5ce0fcc8819d24ffd"
+  },
+  {
+    "path": "03_Void_Policy_And_Lineage_A2.pdf",
+    "bytes": 239449,
+    "sha256": "50550e56a6c503f50e6eee3e1015ae5061afb7cff1a6934123b9d46c50327246"
+  },
+  {
+    "path": "03_Void_Policy_And_Lineage_A2.png",
+    "bytes": 355599,
+    "sha256": "5e8e1b7a8d778d4c4f380d079f3bec1acccb4abf3c3cea91a91c3d434933bb44"
+  },
+  {
+    "path": "03_Void_Policy_And_Lineage_A2.svg",
+    "bytes": 15502,
+    "sha256": "64df6aa4ebaadfc8d3dd073b84f59a04c9594ffa3f1ec447cd6b3f16d4dccdb5"
+  },
+  {
+    "path": "03_Void_Policy_And_Lineage_A2_outlined.svg",
+    "bytes": 329586,
+    "sha256": "30ca67350c0ef8a3e3dbc0a505d2ac187f1ecc7bcc8492ef95749942f9e3b20d"
+  },
+  {
+    "path": "04_Overlap_Development_A2.pdf",
+    "bytes": 238788,
+    "sha256": "f4c51d8d69df1b013aff912e15ea3e94a1f16c5ad1c0818c13cd8739832e106c"
+  },
+  {
+    "path": "04_Overlap_Development_A2.png",
+    "bytes": 636244,
+    "sha256": "0af6f6860792297578732fce217119fdddefd547d3396e78f4f40140b6fb9e12"
+  },
+  {
+    "path": "04_Overlap_Development_A2.svg",
+    "bytes": 97143,
+    "sha256": "53432a923d02f415be63ec6fb4f2ca0be512ec09fcde9faca430c722d619e8c6"
+  },
+  {
+    "path": "04_Overlap_Development_A2_outlined.svg",
+    "bytes": 390218,
+    "sha256": "24f599c7ac96bb3b0e9cc46278d367542de0613259ab9283beb725833b7ca387"
+  },
+  {
+    "path": "05_Selected_Model_Plan_A2.pdf",
+    "bytes": 208242,
+    "sha256": "14c7a9e2771f8ab7d3a2ffb63e70a2482600dc1e3edf86f83982cf676a59bfbd"
+  },
+  {
+    "path": "05_Selected_Model_Plan_A2.png",
+    "bytes": 467517,
+    "sha256": "3ccc509688c990723920dc6f33c2766d0b4e89ccb2cf8e795a407b9c3afb2a44"
+  },
+  {
+    "path": "05_Selected_Model_Plan_A2.svg",
+    "bytes": 36260,
+    "sha256": "63ccaae42c51a987b8a59a832f2fd4a5bdb0d6ec82af1cb6a6b6b214b0c6cea1"
+  },
+  {
+    "path": "05_Selected_Model_Plan_A2_outlined.svg",
+    "bytes": 303216,
+    "sha256": "2158b869da44c97ee4e87ef7cdc35dc3edb82e232d5f65421d7830637be71bf2"
+  },
+  {
+    "path": "Fruchter_Rule_Based_Overlap_A2.pdf",
+    "bytes": 1310889,
+    "sha256": "9fe8f2000f7bf6b92c50f96d3a40042c1f84b8198ff4b01c331b5e17f8b7ac9f"
+  },
+  {
+    "path": "Fruchter_Rule_Models.3dm",
+    "bytes": 69166,
+    "sha256": "c35c3f54fadac7698488bdbb3d371f04d670e9dc1101a3e43d3119dce33f7d1c"
+  },
+  {
+    "path": "M4_Selected_Massing.obj",
+    "bytes": 1761,
+    "sha256": "3e58e81ea20d4e64245e939d3a5b2e2248a1c4e16f6e7c4d1df9c84a96e1bf90"
+  },
+  {
+    "path": "Overlap_Rule_Explorer.html",
+    "bytes": 363166,
+    "sha256": "a080c504b5941ae691f93f58c1e978b47fd196c01faa5e9cd7f666d1c3b94318"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5562,
+    "sha256": "2ede5e6ce329b2b24f8458ff1c7eb77975344138a826974708aae7657b2bace4"
+  },
+  {
+    "path": "assets/D3-LICENSE.txt",
+    "bytes": 731,
+    "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4"
+  },
+  {
+    "path": "assets/InstrumentSans-OFL.txt",
+    "bytes": 4403,
+    "sha256": "bf4dc6d13a8cccd4807133c77a1ee9619a16b92cb23322258725ab6731c2f6e5"
+  },
+  {
+    "path": "assets/InstrumentSans-Regular.ttf",
+    "bytes": 68028,
+    "sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87"
+  },
+  {
+    "path": "assets/NotoSansKR-OFL.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "assets/NotoSansKR-Study.ttf",
+    "bytes": 6223476,
+    "sha256": "00b3e368ffdce00bf3d0dd3566a9a85d9b92cb4025fb0052807324a862244f4e"
+  },
+  {
+    "path": "assets/d3.v7.min.js",
+    "bytes": 279706,
+    "sha256": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539"
+  },
+  {
+    "path": "design/design-philosophy.md",
+    "bytes": 1089,
+    "sha256": "969e70da22b3a00d67a50f40934f9c645e15066a2772e4c1f6c7869d8fdd79b1"
+  },
+  {
+    "path": "design/design-reasoning.md",
+    "bytes": 9534,
+    "sha256": "ceab1dc4c1d11ce6645733a0c2ad66d33e23c9ea333da1947c025ca67930acac"
+  },
+  {
+    "path": "design/study.json",
+    "bytes": 215261,
+    "sha256": "277c995462ef1cbd1cb9ae35f7e5a947cf8c09162f36174288698a47bf6f57a2"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 108,
+    "sha256": "f6516604096276187699ebca2b4872da4582900e084ffdb034f3305c75f00e0b"
+  },
+  {
+    "path": "review/browser-checks.json",
+    "bytes": 432,
+    "sha256": "ee2b32da06c49dd056c32f63325bc3eb5bab19d4e42fc0adcd83ee95555eead3"
+  },
+  {
+    "path": "review/file-checks.json",
+    "bytes": 697,
+    "sha256": "0f7df3320fda1f01781ceb4ddd79d07ec388f13aedf1412e330ea6303576cc81"
+  },
+  {
+    "path": "review/geometry-checks.json",
+    "bytes": 1034,
+    "sha256": "e8f2566196b5508eacee6b967af7d792e792526d174a29546210d5771a2b2b02"
+  },
+  {
+    "path": "review/model-checks.json",
+    "bytes": 791,
+    "sha256": "b1f94c77e1c58e697c8e78650de8ca6933739dff8fbb407831237e048491fe78"
+  },
+  {
+    "path": "scripts/build_explorer.py",
+    "bytes": 8425,
+    "sha256": "f5f8e1dc2508256627782faa653fce7640ab391d579199e489f47044a3b5179b"
+  },
+  {
+    "path": "scripts/check_browser.py",
+    "bytes": 2110,
+    "sha256": "9927a36d2842c96432b2ae6c3c9071251040f1298f70a41cca5ca3d2ebd00882"
+  },
+  {
+    "path": "scripts/design.py",
+    "bytes": 12849,
+    "sha256": "4297cd09be13f26deb88a58a75ca48b5c4bc11470d21b70cfe6912c1ad12a46f"
+  },
+  {
+    "path": "scripts/draw.py",
+    "bytes": 21961,
+    "sha256": "735a33b773e22502ad0797a2bcbe65fe85aabb4b900a20da1226e26e4cb9535f"
+  },
+  {
+    "path": "scripts/export_models.py",
+    "bytes": 4439,
+    "sha256": "73f388fed1095d6aed1fdcd5113a9106e59e464ae0e8834799d00538557929a7"
+  },
+  {
+    "path": "scripts/graphics.py",
+    "bytes": 7041,
+    "sha256": "1b254a6acff5de09a10f168169cebb08802698e02d9ff230e643a85001e0f22f"
+  },
+  {
+    "path": "scripts/package_outputs.py",
+    "bytes": 3511,
+    "sha256": "ae0d90afc34f289e6901728eee995bccf76c0d503e5270fb8fdbe062b2fef423"
+  },
+  {
+    "path": "scripts/validate.py",
+    "bytes": 3473,
+    "sha256": "f9b45b9bd127e512079e025e38fcdfdc4b758e2907a011693df6e9774d5276c2"
+  },
+  {
+    "path": "source/rotation-study.json",
+    "bytes": 31390,
+    "sha256": "5acbd5386cc860363d3db73463b47a89c1c8d993f0cdcf54fa728a22cfbfd47d"
+  }
+]
