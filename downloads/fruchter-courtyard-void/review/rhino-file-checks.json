@@ -1,0 +1,10 @@
+{
+  "format": "Rhino 3DM v8",
+  "objects": 84,
+  "layers": 31,
+  "all_curves_valid": true,
+  "roundtrip_read": true,
+  "units": "U / no metric scale",
+  "all_geometry": "2D at Z=0",
+  "Rhino_desktop_tested": false
+}

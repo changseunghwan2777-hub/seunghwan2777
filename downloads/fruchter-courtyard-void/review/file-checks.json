@@ -1,0 +1,82 @@
+[
+  {
+    "file": "03_Library_Courtyard_Plan_A2_outlined.svg",
+    "svg_xml": "valid"
+  },
+  {
+    "file": "01_Expansion_Overlap_Process_A2_outlined.svg",
+    "svg_xml": "valid"
+  },
+  {
+    "file": "01_Expansion_Overlap_Process_A2.svg",
+    "svg_xml": "valid"
+  },
+  {
+    "file": "03_Library_Courtyard_Plan_A2.svg",
+    "svg_xml": "valid"
+  },
+  {
+    "file": "02_Spatial_Comparison_A2_outlined.svg",
+    "svg_xml": "valid"
+  },
+  {
+    "file": "02_Spatial_Comparison_A2.svg",
+    "svg_xml": "valid"
+  },
+  {
+    "file": "02_Spatial_Comparison_A2.png",
+    "pixels": [
+      2800,
+      1980
+    ],
+    "corners": "white"
+  },
+  {
+    "file": "01_Expansion_Overlap_Process_A2.png",
+    "pixels": [
+      2800,
+      1980
+    ],
+    "corners": "white"
+  },
+  {
+    "file": "03_Library_Courtyard_Plan_A2.png",
+    "pixels": [
+      2800,
+      1980
+    ],
+    "corners": "white"
+  },
+  {
+    "file": "01_Expansion_Overlap_Process_A2.pdf",
+    "pages": 1,
+    "A2_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "03_Library_Courtyard_Plan_A2.pdf",
+    "pages": 1,
+    "A2_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "Fruchter_Courtyard_Study_A2.pdf",
+    "pages": 3,
+    "A2_mm": [
+      594,
+      420
+    ]
+  },
+  {
+    "file": "02_Spatial_Comparison_A2.pdf",
+    "pages": 1,
+    "A2_mm": [
+      594,
+      420
+    ]
+  }
+]

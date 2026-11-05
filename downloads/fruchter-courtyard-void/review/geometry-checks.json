@@ -1,0 +1,25 @@
+{
+  "valid_connected_floor_and_courtyard_partition": true,
+  "full_subtraction_components": 3,
+  "furniture_within_assigned_areas": 11,
+  "routes_not_crossing_walls_furniture_or_void": true,
+  "scope": "Centre lines only, not code clear widths, evacuation or structural validation.",
+  "area_metrics": {
+    "A": {
+      "enclosed_floor_U2": 3.809580052975327,
+      "open_court_U2": 1.104105414189713,
+      "shared_floor_U2": 0.6965737904149355,
+      "envelope_U2": 4.913685467165039,
+      "court_boundary_U": 4.0456162120493495,
+      "floor_components": 1
+    },
+    "B": {
+      "enclosed_floor_U2": 1.9688287254209995,
+      "open_court_U2": 0.21786788351193903,
+      "shared_floor_U2": 0.5409384520547943,
+      "envelope_U2": 2.1866966089329383,
+      "court_boundary_U": 2.9710297462901782,
+      "floor_components": 1
+    }
+  }
+}

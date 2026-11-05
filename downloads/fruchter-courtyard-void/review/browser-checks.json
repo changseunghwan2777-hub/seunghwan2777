@@ -1,0 +1,14 @@
+{
+  "states_path_counts": {
+    "original": 8,
+    "expanded": 5,
+    "overlap": 7,
+    "full": 6,
+    "selected": 76
+  },
+  "layer_toggles": true,
+  "svg_download": true,
+  "mobile_no_horizontal_overflow": true,
+  "javascript_errors": [],
+  "offline_inline_d3": true
+}

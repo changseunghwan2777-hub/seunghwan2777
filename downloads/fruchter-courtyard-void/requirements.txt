@@ -1,0 +1,7 @@
+shapely==2.2.0
+cairosvg==2.9.1
+fonttools
+pillow
+pymupdf
+rhino3dm==8.35.0
+playwright
