@@ -1,0 +1,33 @@
+{
+  "checks": {
+    "twenty_units": true,
+    "unique_pivots": true,
+    "unique_angles": true,
+    "rigid_envelope_areas": true,
+    "rigid_wing_areas": true,
+    "valid_floor": true,
+    "protected_courts": true,
+    "one_floor_component": true,
+    "one_primary_contact_graph": true,
+    "one_component_after_004u_inset": true,
+    "all_hatch_inside_floor": true,
+    "each_unit_floor_connected": true
+  },
+  "metrics": {
+    "area": 34.873742595615155,
+    "overlap_pct": 21.53124054434434,
+    "components": 1,
+    "inset_components": 1,
+    "usable_graph_components": 1,
+    "contacts": 39,
+    "usable_contacts": 32,
+    "min_diameter": 0.01954776113502261,
+    "max_diameter": 0.7113637379150131,
+    "area_cv": 0.6465473196455673,
+    "courts": 20,
+    "natural_voids": 11,
+    "court_intrusion": 0.01229999355216577,
+    "min_angle": -39.637583823832976,
+    "max_angle": 39.637583823832976
+  }
+}

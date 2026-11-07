@@ -1,0 +1,72 @@
+[
+  {
+    "name": "01_Field_Alternatives",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 272134,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "02_Independent_Pivots",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 242047,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "03_Organic_Figure_Ground",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 88033,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "04_Organic_Hatch",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 160289,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "05_Overlap_Atlas",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 200341,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "Clean_Organic_Figure_Ground",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 3543,
+    "png_size": [
+      7016,
+      4961
+    ]
+  },
+  {
+    "name": "Clean_Organic_Hatch",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 84185,
+    "png_size": [
+      7016,
+      4961
+    ]
+  }
+]

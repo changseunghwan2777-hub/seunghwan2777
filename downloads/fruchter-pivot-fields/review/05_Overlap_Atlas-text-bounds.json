@@ -1,0 +1,219 @@
+[
+  {
+    "text": "FRUCHTER HOUSE 1951 / LOUIS I. KAHN / SPATIAL RECONSTRUCTION",
+    "left": 18.0,
+    "right": 118.23157499999999,
+    "baseline": 17,
+    "size": 8.5
+  },
+  {
+    "text": "ONE RULE, DIFFERENT SHARED SPACES",
+    "left": 18.0,
+    "right": 216.80015555555553,
+    "baseline": 32,
+    "size": 29
+  },
+  {
+    "text": "중첩이 크고 작아지는 것뿐 아니라, 만나는 각도와 경계의 형태도 달라진다",
+    "left": 18.0,
+    "right": 146.7034933333333,
+    "baseline": 45,
+    "size": 12.2
+  },
+  {
+    "text": "05 / CONTACTS",
+    "left": 550.1306291666667,
+    "right": 576.0,
+    "baseline": 21,
+    "size": 9.5
+  },
+  {
+    "text": "A2 LANDSCAPE / 594 × 420 mm",
+    "left": 533.4945111111111,
+    "right": 576.0,
+    "baseline": 34,
+    "size": 8
+  },
+  {
+    "text": "01  THIN THRESHOLD",
+    "left": 18.0,
+    "right": 57.500175,
+    "baseline": 68,
+    "size": 11
+  },
+  {
+    "text": "41 / 42 · Δθ 10.5° · Ø 0.02u",
+    "left": 18.0,
+    "right": 54.65925555555556,
+    "baseline": 187,
+    "size": 8.3
+  },
+  {
+    "text": "가는 경계 / 보조 접점",
+    "left": 18.0,
+    "right": 48.50469444444444,
+    "baseline": 198,
+    "size": 10
+  },
+  {
+    "text": "좁게 겹치는 틈은 주요 동선으로 세지 않는다. 시선·경계 조정 대상으로 남긴다.",
+    "left": 18.0,
+    "right": 119.292025,
+    "baseline": 208.0,
+    "size": 9
+  },
+  {
+    "text": "02  SMALL ANGLE DIFFERENCE",
+    "left": 206.0,
+    "right": 264.75549166666667,
+    "baseline": 68,
+    "size": 11
+  },
+  {
+    "text": "15 / 25 · Δθ 0.1° · Ø 0.44u",
+    "left": 206.0,
+    "right": 241.01076027777776,
+    "baseline": 187,
+    "size": 8.3
+  },
+  {
+    "text": "작은 상대 회전 / 비대칭 접합",
+    "left": 206.0,
+    "right": 247.03158333333334,
+    "baseline": 198,
+    "size": 10
+  },
+  {
+    "text": "모듈 전체의 방향은 가깝지만 서로 다른 날개가 만나 비대칭 공유 영역을 만든다.",
+    "left": 206.0,
+    "right": 308.2096,
+    "baseline": 208.0,
+    "size": 9
+  },
+  {
+    "text": "03  OBLIQUE CONTACT",
+    "left": 394.0,
+    "right": 437.7299805555555,
+    "baseline": 68,
+    "size": 11
+  },
+  {
+    "text": "22 / 23 · Δθ 30.9° · Ø 0.34u",
+    "left": 394.0,
+    "right": 430.65925555555555,
+    "baseline": 187,
+    "size": 8.3
+  },
+  {
+    "text": "사선 교차 / 방향 전환",
+    "left": 394.0,
+    "right": 424.50469444444445,
+    "baseline": 198,
+    "size": 10
+  },
+  {
+    "text": "두 방향이 큰 각도로 만나 진입 방향과 시선이 전환되는 공유 영역을 만든다.",
+    "left": 394.0,
+    "right": 490.3676,
+    "baseline": 208.0,
+    "size": 9
+  },
+  {
+    "text": "04  BROAD OVERLAP",
+    "left": 18.0,
+    "right": 57.59718888888889,
+    "baseline": 234,
+    "size": 11
+  },
+  {
+    "text": "33 / 42 · Δθ 16.9° · Ø 0.71u",
+    "left": 18.0,
+    "right": 54.65925555555556,
+    "baseline": 353,
+    "size": 8.3
+  },
+  {
+    "text": "넓은 접합 / 협업 장소",
+    "left": 18.0,
+    "right": 48.50469444444444,
+    "baseline": 364,
+    "size": 10
+  },
+  {
+    "text": "넓어진 공유 영역은 팀 사이의 공동 작업이나 협의 공간으로 우선 검토한다.",
+    "left": 18.0,
+    "right": 113.65639999999999,
+    "baseline": 374.0,
+    "size": 9
+  },
+  {
+    "text": "05  THREE-MOTIF NODE",
+    "left": 206.0,
+    "right": 251.67413888888888,
+    "baseline": 234,
+    "size": 11
+  },
+  {
+    "text": "24 / 25 / 35 · 0.161u²",
+    "left": 206.0,
+    "right": 234.2235275,
+    "baseline": 353,
+    "size": 8.3
+  },
+  {
+    "text": "세 모듈 결절 / 공동 자원",
+    "left": 206.0,
+    "right": 240.5404722222222,
+    "baseline": 364,
+    "size": 10
+  },
+  {
+    "text": "서로 다른 모듈의 접속이 집중되는 곳. 여러 팀이 함께 쓰는 실내로 유지한다.",
+    "left": 206.0,
+    "right": 303.282,
+    "baseline": 374.0,
+    "size": 9
+  },
+  {
+    "text": "06  COURT PROTECTION",
+    "left": 394.0,
+    "right": 440.3998027777778,
+    "baseline": 234,
+    "size": 11
+  },
+  {
+    "text": "모듈 13 · 적색 = 제거할 침범 부분",
+    "left": 394.0,
+    "right": 434.82880666666665,
+    "baseline": 353,
+    "size": 8.3
+  },
+  {
+    "text": "중정 보존 / 최소 절삭",
+    "left": 394.0,
+    "right": 424.50469444444445,
+    "baseline": 364,
+    "size": 10
+  },
+  {
+    "text": "모듈 13의 중정에 들어온 이웃 바닥 0.00875u²를 제거해 기존 비움을 유지한다.",
+    "left": 394.0,
+    "right": 496.4509,
+    "baseline": 374.0,
+    "size": 9
+  },
+  {
+    "text": "모든 확대도는 동일 축척의 실제 교집합이다. 맥락 외곽은 표시 창에서 잘렸다. 용도는 공용 오피스 설계 제안이며 세부 실치수·가구 배치는 미확정.",
+    "left": 18.0,
+    "right": 165.89633305555552,
+    "baseline": 415,
+    "size": 7.1
+  },
+  {
+    "text": "NTS / DESIGN PROPOSAL",
+    "left": 545.3121433333333,
+    "right": 576.0,
+    "baseline": 415,
+    "size": 7.1
+  }
+]

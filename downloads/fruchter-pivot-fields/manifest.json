@@ -1,0 +1,427 @@
+[
+  {
+    "path": "Fruchter_Moving_Centres_A2.pdf",
+    "bytes": 1045949,
+    "sha256": "9f86458ab4ff10251bddb9c9e1c050dba23e6ba104271aab258440c4b27aa7a4"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4513,
+    "sha256": "5431754b7e64be424c649cafc551c6158f408188cdefd61a222b86b89e9c9031"
+  },
+  {
+    "path": "assets/D3-LICENSE.txt",
+    "bytes": 731,
+    "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4"
+  },
+  {
+    "path": "assets/InstrumentSans-OFL.txt",
+    "bytes": 4403,
+    "sha256": "bf4dc6d13a8cccd4807133c77a1ee9619a16b92cb23322258725ab6731c2f6e5"
+  },
+  {
+    "path": "assets/InstrumentSans-Regular.ttf",
+    "bytes": 68028,
+    "sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87"
+  },
+  {
+    "path": "assets/NotoSansKR-OFL.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "assets/NotoSansKR-Study.ttf",
+    "bytes": 6223476,
+    "sha256": "00b3e368ffdce00bf3d0dd3566a9a85d9b92cb4025fb0052807324a862244f4e"
+  },
+  {
+    "path": "assets/Pardesco-MIT-LICENSE.txt",
+    "bytes": 1081,
+    "sha256": "c241852cafe31a42ffb9c28b4c4ea777c259fb18de0af2adc3e46e000148818c"
+  },
+  {
+    "path": "assets/Pardesco-viewer-template.html",
+    "bytes": 33565,
+    "sha256": "288d9509d6f76d8ee24f7c903530bb7f0ca415aeaf03d16c13dd781f61eb8a0c"
+  },
+  {
+    "path": "assets/d3.v7.min.js",
+    "bytes": 279706,
+    "sha256": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539"
+  },
+  {
+    "path": "design/cases.json",
+    "bytes": 1005315,
+    "sha256": "6f4da48d4b1104163955e51fc5924f000ea572585ceae991a67f250c574fa2ae"
+  },
+  {
+    "path": "design/design-philosophy.md",
+    "bytes": 1302,
+    "sha256": "3396e3a777690cffbaf52d40334671637fb58b265c02199a3293ed5ede0bd14c"
+  },
+  {
+    "path": "design/design-reasoning.md",
+    "bytes": 6274,
+    "sha256": "f273875f067ef94fd1caeea6b8820927e5342ec8c1f2678c8982eaede42c3f0d"
+  },
+  {
+    "path": "design/hatch-paths.json",
+    "bytes": 660638,
+    "sha256": "314b0ff4f9f50486e662dc85eb536929d2a6fb23b19f96630e0f7b66db0f2bfd"
+  },
+  {
+    "path": "design/pivots-and-angles.csv",
+    "bytes": 1887,
+    "sha256": "8be91722bd278d23113af177040af7ffdfec437333b28c48ebaaab7afbf697ec"
+  },
+  {
+    "path": "design/selected.json",
+    "bytes": 110758,
+    "sha256": "3095865edf9ba657fecf5c8b7bf0194ce47c7a495a74460cbb66ac100295990f"
+  },
+  {
+    "path": "design/skills-installed.json",
+    "bytes": 945,
+    "sha256": "0fb24d6cbea88deef3a857bfdd6e0cdbfc23257dd339c18835afb8cad5b3c14e"
+  },
+  {
+    "path": "design/source-study.json",
+    "bytes": 215261,
+    "sha256": "277c995462ef1cbd1cb9ae35f7e5a947cf8c09162f36174288698a47bf6f57a2"
+  },
+  {
+    "path": "output/01_Field_Alternatives.pdf",
+    "bytes": 272134,
+    "sha256": "ea0aa2407df84bfbdfdbbf3823c54a29f0ba56ee7e3b9be8d6311e75f43a716b"
+  },
+  {
+    "path": "output/01_Field_Alternatives.png",
+    "bytes": 686467,
+    "sha256": "2174422ed99ab0ee29be00ab36149dc14247f5fd9b09bd87efb4c752ed61ab2f"
+  },
+  {
+    "path": "output/01_Field_Alternatives.svg",
+    "bytes": 142514,
+    "sha256": "df46c063952142c38e9ba6f838587aa7edba11159f968cdc39c1898675453789"
+  },
+  {
+    "path": "output/01_Field_Alternatives_outlined.svg",
+    "bytes": 464716,
+    "sha256": "6e0d00ca659e62a8a5d6949db105bc72e2701f959db81b2b3f23fb21357147c7"
+  },
+  {
+    "path": "output/02_Independent_Pivots.pdf",
+    "bytes": 242047,
+    "sha256": "5d0623b9b54a4b6dc5f528c59b37d8da8f6fdb92da6756783487b1e38d9b2c34"
+  },
+  {
+    "path": "output/02_Independent_Pivots.png",
+    "bytes": 482573,
+    "sha256": "630d665e51d7dc687cfd7919cf4b647d306ab320223a5c6759601442d34527ef"
+  },
+  {
+    "path": "output/02_Independent_Pivots.svg",
+    "bytes": 63108,
+    "sha256": "c19b681f9564b7d9471ed0b681a043ebdb52441d13f8ae7968875a9fa2e5f1f0"
+  },
+  {
+    "path": "output/02_Independent_Pivots_outlined.svg",
+    "bytes": 373079,
+    "sha256": "fc205eaacc4b4104e816d9c498ac2b7421bb0e61279b06d4046e559ef7ca35ad"
+  },
+  {
+    "path": "output/03_Organic_Figure_Ground.pdf",
+    "bytes": 88033,
+    "sha256": "35d1547c625753006d8a41632bad9e63fb904b0b02b7530f6160ced2d9849f01"
+  },
+  {
+    "path": "output/03_Organic_Figure_Ground.png",
+    "bytes": 292673,
+    "sha256": "6dc7079a0e33e6066fcccf0caf744deb4240a6feb9294adc0c907b2f9f87ef8b"
+  },
+  {
+    "path": "output/03_Organic_Figure_Ground.svg",
+    "bytes": 11528,
+    "sha256": "c3760c9b0f9cba5efc3426f142a7df8d9fce093312b67579f20ca2457260645d"
+  },
+  {
+    "path": "output/03_Organic_Figure_Ground_outlined.svg",
+    "bytes": 128203,
+    "sha256": "81fa8b999e74acd63ffa470cd64a82f608fd5148d181f546d0e8c2bde371e670"
+  },
+  {
+    "path": "output/04_Organic_Hatch.pdf",
+    "bytes": 160289,
+    "sha256": "a1da717c58080e1de2598e7b9c8d3526e9214ab804d689cc4bb2c2bfdf5b73c6"
+  },
+  {
+    "path": "output/04_Organic_Hatch.png",
+    "bytes": 3622758,
+    "sha256": "c41282ee5f776967c0cc566b1052cc0621818edb8cd52d21a5f50c307bca18be"
+  },
+  {
+    "path": "output/04_Organic_Hatch.svg",
+    "bytes": 583246,
+    "sha256": "eb39dcd74d249e76f0f664b9fc68b1c03c4786429f69fb74678c998061f1b17c"
+  },
+  {
+    "path": "output/04_Organic_Hatch_outlined.svg",
+    "bytes": 690100,
+    "sha256": "99cec3797bc17dda618e1ca9211888928b8b1684d0a7a361dae5008ed155cd96"
+  },
+  {
+    "path": "output/05_Overlap_Atlas.pdf",
+    "bytes": 200341,
+    "sha256": "76a9bbdc0ab7186e2da5f74a3a198d3698c6630ff9942097da9f4c33f3770efe"
+  },
+  {
+    "path": "output/05_Overlap_Atlas.png",
+    "bytes": 371562,
+    "sha256": "226e0ce10a38b1a2274bfb4764175986281701d9a68f999047b2ef48d4c94016"
+  },
+  {
+    "path": "output/05_Overlap_Atlas.svg",
+    "bytes": 17111,
+    "sha256": "891aae98b155ecaca5049802221c4ea0e07d8cda617f0ddcd278718f3e560379"
+  },
+  {
+    "path": "output/05_Overlap_Atlas_outlined.svg",
+    "bytes": 284295,
+    "sha256": "40f0f8da2b5f22c5cafbb88cfb0c31ea8be71e2561131f65212939968b823376"
+  },
+  {
+    "path": "output/Clean_Organic_Figure_Ground.pdf",
+    "bytes": 3543,
+    "sha256": "d80da383478b563e262504236905f390f5b1f91312770f069a1e460cc304bf9f"
+  },
+  {
+    "path": "output/Clean_Organic_Figure_Ground.png",
+    "bytes": 704639,
+    "sha256": "06ce9a422d62d2c0fcbdfbc7ce6dfe1e66f20e02d3de541a493db31ace2c449e"
+  },
+  {
+    "path": "output/Clean_Organic_Figure_Ground.svg",
+    "bytes": 8585,
+    "sha256": "732a3ea3e6db3d738755d36c91b804bd76f44555f5e7315fa46eb472aa6d901a"
+  },
+  {
+    "path": "output/Clean_Organic_Figure_Ground_outlined.svg",
+    "bytes": 8585,
+    "sha256": "732a3ea3e6db3d738755d36c91b804bd76f44555f5e7315fa46eb472aa6d901a"
+  },
+  {
+    "path": "output/Clean_Organic_Hatch.pdf",
+    "bytes": 84185,
+    "sha256": "fc119aeef3111b991db14b010c6ec386a7f4f33d23f709067c9e58a329fcdf30"
+  },
+  {
+    "path": "output/Clean_Organic_Hatch.png",
+    "bytes": 14827720,
+    "sha256": "5c523f5b3b4dfc8dc170b5e24723cc26c2ecba74d9482e242d3dfca425dab89c"
+  },
+  {
+    "path": "output/Clean_Organic_Hatch.svg",
+    "bytes": 579417,
+    "sha256": "d07a41233624ee0d0b41ca9682ea5be04d221fdb1f309fc5d3e073f0bd15ac27"
+  },
+  {
+    "path": "output/Clean_Organic_Hatch_outlined.svg",
+    "bytes": 579417,
+    "sha256": "d07a41233624ee0d0b41ca9682ea5be04d221fdb1f309fc5d3e073f0bd15ac27"
+  },
+  {
+    "path": "output/Directional_Hatch_Studio.html",
+    "bytes": 469663,
+    "sha256": "2beec6bae1436da2e60675f808980811fa7082aba2065e8d7c385037953c6d39"
+  },
+  {
+    "path": "output/Moving_Centres_2D.3dm",
+    "bytes": 1035019,
+    "sha256": "0e62b9f55bfb5302c5a52095f5f7c0611b0b3101f726976c81a367ff07e01e26"
+  },
+  {
+    "path": "output/Moving_Centres_Explorer.html",
+    "bytes": 1951133,
+    "sha256": "9449140caa3adc8f34d8db9a0e612ff8ca174e0222b68d995621815848781f1d"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 110,
+    "sha256": "1a284cb8e87906f8ac44181b73eb611a5c3c4288e0d8e0108b1124f37cfefa67"
+  },
+  {
+    "path": "review/01_Field_Alternatives-text-bounds.json",
+    "bytes": 5602,
+    "sha256": "2ecb9b89ec5ccd45aa1f4996c59aebb05779e7006611834f3002a20c9bc15ec5"
+  },
+  {
+    "path": "review/02_Independent_Pivots-text-bounds.json",
+    "bytes": 11787,
+    "sha256": "c3db6bb531b03e1c4dae7d1fa508bef7b861b91cd051883fe5f8f9d3830c187f"
+  },
+  {
+    "path": "review/03_Organic_Figure_Ground-text-bounds.json",
+    "bytes": 1853,
+    "sha256": "ffdbb9c53422d8019f8813361b1b358b9e95dfa92788a3f29ed10073bcd84324"
+  },
+  {
+    "path": "review/04_Organic_Hatch-text-bounds.json",
+    "bytes": 1814,
+    "sha256": "9a529f2e9d790d5a37f5fd9059848ba105657cbc9e283d9ea288bec10b2d2152"
+  },
+  {
+    "path": "review/05_Overlap_Atlas-text-bounds.json",
+    "bytes": 5012,
+    "sha256": "d8ff390f2309ba918554a376804cb583c827dd54a832c6192cd6ee669c5c85ed"
+  },
+  {
+    "path": "review/Clean_Organic_Figure_Ground-text-bounds.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "review/Clean_Organic_Hatch-text-bounds.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "review/boards-contact.png",
+    "bytes": 429418,
+    "sha256": "7a6d5d592552c0e96d8561fe6c87755aa8315e85b0d4ccf1986a2c86fbb9f9c3"
+  },
+  {
+    "path": "review/browser-qa.json",
+    "bytes": 379,
+    "sha256": "48ea309898ac2b2fce27e3d82eee205c1c8e735958a0518df2e07921aa3c61e6"
+  },
+  {
+    "path": "review/d3-explorer.png",
+    "bytes": 356688,
+    "sha256": "03f678165724c006156f0c613f8e66568f50e4fabefe8722f8e1aad557769774"
+  },
+  {
+    "path": "review/d3-export.svg",
+    "bytes": 459100,
+    "sha256": "e31c0ea93a61866f815be1f1747635bccf3408db585830d24262e3cbad34298d"
+  },
+  {
+    "path": "review/file-checks.json",
+    "bytes": 1311,
+    "sha256": "e9f020fc227b49a8ad748bd26136e5c12530c930f38a3888fbb543ca100e05e4"
+  },
+  {
+    "path": "review/geometry-checks.json",
+    "bytes": 906,
+    "sha256": "ea1addfcdfd5be0ebfcc9cebd9bb0ab3637ea858cd860c8455f5d23c67e29047"
+  },
+  {
+    "path": "review/hatch-print-check.png",
+    "bytes": 7274426,
+    "sha256": "13250627a4bed09ea7c46ea9e8636cf26bdd4f5619e697d06bc16859df59ce66"
+  },
+  {
+    "path": "review/hatch-print-crop.png",
+    "bytes": 353566,
+    "sha256": "d6e26dbb24bef675dc520c3b0ae3892b4257b014e180a4b76a4ad67408fbe2ed"
+  },
+  {
+    "path": "review/hatch-round1.png",
+    "bytes": 812688,
+    "sha256": "0db8371eebfe490403a15bf7b2e7ccd6bcad222f51e9e706cb97409327554044"
+  },
+  {
+    "path": "review/hatch-round2.png",
+    "bytes": 812932,
+    "sha256": "8876593fa149b8b23b95727119fda4b3e4318348795a0e9b2d62554f6e4bf22c"
+  },
+  {
+    "path": "review/rhino-roundtrip.json",
+    "bytes": 474,
+    "sha256": "d08c513aa392c3e8f69ee08dcfc8498b31bfab603cd5d8e83433b204b0b76a9b"
+  },
+  {
+    "path": "review/studio-export.svg",
+    "bytes": 178106,
+    "sha256": "047037a13348891c792a924f3a4c19b8ec9fca3fc99ef18be059a0b54b1853b3"
+  },
+  {
+    "path": "review/visual-critique.md",
+    "bytes": 2637,
+    "sha256": "4f43daacd3018ac3fd52092b2bb6dce63ac6532a77d1cadd242cbce2a828999c"
+  },
+  {
+    "path": "scripts/boards.py",
+    "bytes": 8112,
+    "sha256": "5a8936f06fd9f000f30d44735f0f319c7d8c28ba28a17a668195daad7fcc85fb"
+  },
+  {
+    "path": "scripts/browser_qa.py",
+    "bytes": 2022,
+    "sha256": "faacddcfafc7c6cfc5b8b0ed4d3d9b35c40fb0a5c2fe14942252f0f84b2ffe2b"
+  },
+  {
+    "path": "scripts/draw.py",
+    "bytes": 1892,
+    "sha256": "db29dfb232c066c1d90fd3b7598ae04a3c32c4ea1a5c4e4d3ed0947ee2474814"
+  },
+  {
+    "path": "scripts/fields.py",
+    "bytes": 3432,
+    "sha256": "a4eb86460dd48253497277d39efd5c7388e03ce69b23761ee92f125e1a7d37ce"
+  },
+  {
+    "path": "scripts/geometry.py",
+    "bytes": 3447,
+    "sha256": "d396e5fb385d9b2d6cc067b6e4e023fff6387620eb9d7b493d776b83ad001e9f"
+  },
+  {
+    "path": "scripts/graphics.py",
+    "bytes": 7041,
+    "sha256": "1b254a6acff5de09a10f168169cebb08802698e02d9ff230e643a85001e0f22f"
+  },
+  {
+    "path": "scripts/hatching.py",
+    "bytes": 2849,
+    "sha256": "d64eb408a5ea42dd4b6edf6e9bf1363cc5dae7596855d4e18a9d60eb1b6fcb35"
+  },
+  {
+    "path": "scripts/interactive.py",
+    "bytes": 5910,
+    "sha256": "e93b23c7210fa6675159ff85edf4b55038d844c675da25dd492f80c16fb1ee78"
+  },
+  {
+    "path": "scripts/package.py",
+    "bytes": 2848,
+    "sha256": "fb320cc4d921efd6966856336286c527bd9733da6ce78b5b8b5c2acc23a34bbc"
+  },
+  {
+    "path": "scripts/print_exports.py",
+    "bytes": 299,
+    "sha256": "c226c97867aa7e9627c91496f7f15e77fa17e1451c797b485abf5f9f1de13ca4"
+  },
+  {
+    "path": "scripts/review_viewer.py",
+    "bytes": 753,
+    "sha256": "394aca8cd7ed8145ef762fecce21466a4bdcc44c8ad787039c0f8ed7548713ec"
+  },
+  {
+    "path": "scripts/review_viewer_round2.py",
+    "bytes": 883,
+    "sha256": "a924b98d36ced6854840eb7f26618546574fb69bb960b7b64260f1f3d29adb6c"
+  },
+  {
+    "path": "scripts/rhino_export.py",
+    "bytes": 2059,
+    "sha256": "7f2688cd4cc486956360986b7989c3f8a15c80aafdafdf8cf9fe527173576e17"
+  },
+  {
+    "path": "scripts/selected.py",
+    "bytes": 552,
+    "sha256": "f9a82acc24db30c591d0abcd2987a91813012e1b9bff26ebebe6d33ba7fa51e1"
+  },
+  {
+    "path": "scripts/verify_geometry.py",
+    "bytes": 1406,
+    "sha256": "74d8a69b1a3f7b5c43201169f53463fd4be85bac3958c37d2776220405f30942"
+  }
+]
