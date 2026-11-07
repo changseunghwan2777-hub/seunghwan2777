@@ -1,0 +1,20 @@
+{
+  "objects": 2557,
+  "layers": {
+    "01_Wing_A": 12,
+    "01_Wing_B": 12,
+    "01_Wing_C": 12,
+    "02_Built_floor": 19,
+    "03_Module_courts": 12,
+    "04_Interstitial_courts": 6,
+    "05_Intermodule_overlap": 11,
+    "06_Triple_shared_nodes": 6,
+    "07_Shared_routes": 76,
+    "08_Hatch_A": 797,
+    "08_Hatch_B": 797,
+    "08_Hatch_C": 797
+  },
+  "units": "None / relative u",
+  "z": "all 0; 2D model",
+  "desktop_tested": false
+}

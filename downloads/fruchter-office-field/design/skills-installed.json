@@ -1,0 +1,30 @@
+[
+  {
+    "name": "rhino-modeling",
+    "path": "/workspace/seunghwan2777/.agents/skills/rhino-modeling/SKILL.md",
+    "bytes": 3695,
+    "sha256": "d5dd64c24520b0cb099507f832178035955ac7809e360a3b6abfc7c5a8667223",
+    "applied": true
+  },
+  {
+    "name": "canvas-design",
+    "path": "/workspace/seunghwan2777/.agents/skills/canvas-design/SKILL.md",
+    "bytes": 11939,
+    "sha256": "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b",
+    "applied": true
+  },
+  {
+    "name": "d3-viz",
+    "path": "/workspace/seunghwan2777/.agents/skills/d3-viz/SKILL.md",
+    "bytes": 21764,
+    "sha256": "4b1f820cd87c55dc6b7c714a76c1320903187967cd43f3b4db9d6eacbcc085b3",
+    "applied": true
+  },
+  {
+    "name": "algorithmic-art",
+    "path": "/workspace/seunghwan2777/.agents/skills/algorithmic-art/SKILL.md",
+    "bytes": 10790,
+    "sha256": "550e313cb93dce450d6684e4abc1dfec470d24f3d7aa19f086f9d7d74654ebc2",
+    "applied": true
+  }
+]

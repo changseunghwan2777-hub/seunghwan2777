@@ -1,0 +1,24 @@
+{
+  "d3_cases": [
+    "GRID-1.45",
+    "GRID-1.65",
+    "GRID-1.85",
+    "STAGGER-1.45",
+    "STAGGER-1.65",
+    "STAGGER-1.85",
+    "ALTERNATE-1.45",
+    "ALTERNATE-1.65",
+    "ALTERNATE-1.85"
+  ],
+  "errors": [],
+  "hatch_deterministic": true,
+  "hatch_svg_stats": {
+    "paths": 2391,
+    "penUpBeforeMM": 148499.4,
+    "penUpAfterMM": 6384.3,
+    "mm": [
+      594,
+      420
+    ]
+  }
+}

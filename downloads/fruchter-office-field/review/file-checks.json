@@ -1,0 +1,72 @@
+[
+  {
+    "name": "01_Array_Rules",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 260872,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "02_Module_and_Overlap",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 214831,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "03_Figure_Ground",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 83529,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "04_Directional_Overlap",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 136017,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "05_Shared_Office",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 145802,
+    "png_size": [
+      2800,
+      1980
+    ]
+  },
+  {
+    "name": "Clean_Figure_Ground",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 2172,
+    "png_size": [
+      7016,
+      4961
+    ]
+  },
+  {
+    "name": "Clean_Layered_Hatch",
+    "width_mm": 594.0000047471788,
+    "height_mm": 419.999988132053,
+    "pdf_bytes": 50622,
+    "png_size": [
+      7016,
+      4961
+    ]
+  }
+]

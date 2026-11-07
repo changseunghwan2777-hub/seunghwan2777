@@ -1,0 +1,296 @@
+[
+  {
+    "text": "FRUCHTER HOUSE 1951 / LOUIS I. KAHN / SPATIAL RECONSTRUCTION",
+    "left": 18.0,
+    "right": 118.23157499999999,
+    "baseline": 17,
+    "size": 8.5
+  },
+  {
+    "text": "ONE MOTIF, THREE KINDS OF SHARING",
+    "left": 18.0,
+    "right": 210.74366666666666,
+    "baseline": 32,
+    "size": 29
+  },
+  {
+    "text": "모듈 내부의 중첩과 반복 모듈 사이의 중첩을 분리해서 읽는다",
+    "left": 18.0,
+    "right": 124.70201333333331,
+    "baseline": 45,
+    "size": 12.2
+  },
+  {
+    "text": "02 / ANATOMY",
+    "left": 551.6622138888889,
+    "right": 576.0,
+    "baseline": 21,
+    "size": 9.5
+  },
+  {
+    "text": "A2 LANDSCAPE / 594 × 420 mm",
+    "left": 533.4945111111111,
+    "right": 576.0,
+    "baseline": 34,
+    "size": 8
+  },
+  {
+    "text": "01 / THREE WINGS",
+    "left": 18.0,
+    "right": 46.1559,
+    "baseline": 69,
+    "size": 9
+  },
+  {
+    "text": "A",
+    "left": 64.32632721469508,
+    "right": 67.66501610358397,
+    "baseline": 126.71874998033579,
+    "size": 13
+  },
+  {
+    "text": "B",
+    "left": 101.67367276331814,
+    "right": 104.5904394299848,
+    "baseline": 126.71875001841798,
+    "size": 13
+  },
+  {
+    "text": "C",
+    "left": 83.0,
+    "right": 86.39830833333333,
+    "baseline": 159.0625,
+    "size": 13
+  },
+  {
+    "text": "L = 1.25u / W = 0.80u",
+    "left": 18.0,
+    "right": 54.84199444444444,
+    "baseline": 209,
+    "size": 11
+  },
+  {
+    "text": "중심 간격 R = 0.45u · 120° 간격",
+    "left": 18.0,
+    "right": 60.929174999999994,
+    "baseline": 218,
+    "size": 9
+  },
+  {
+    "text": "각 공간군의 장축에 공통 비틀림 +15°",
+    "left": 18.0,
+    "right": 66.08855,
+    "baseline": 223,
+    "size": 9
+  },
+  {
+    "text": "02 / SUBTRACT THE COURT",
+    "left": 160.0,
+    "right": 202.5323,
+    "baseline": 69,
+    "size": 9
+  },
+  {
+    "text": "U = (A ∪ B ∪ C) − T",
+    "left": 160.0,
+    "right": 194.3933638888889,
+    "baseline": 209,
+    "size": 11
+  },
+  {
+    "text": "T = A ∩ B ∩ C",
+    "left": 160.0,
+    "right": 180.418425,
+    "baseline": 218,
+    "size": 9
+  },
+  {
+    "text": "이전 스터디의 삼중 중첩을 중정으로 유지",
+    "left": 160.0,
+    "right": 213.213,
+    "baseline": 223,
+    "size": 9
+  },
+  {
+    "text": "03 / ONE WORK NEIGHBOURHOOD",
+    "left": 302.0,
+    "right": 355.482875,
+    "baseline": 69,
+    "size": 9
+  },
+  {
+    "text": "U = one repeatable motif",
+    "left": 302.0,
+    "right": 345.5747583333333,
+    "baseline": 209,
+    "size": 11
+  },
+  {
+    "text": "세 개의 날개와 하나의 중정을 묶어 반복",
+    "left": 302.0,
+    "right": 353.0032,
+    "baseline": 218,
+    "size": 9
+  },
+  {
+    "text": "개별 날개를 임의로 재배치하지 않는다",
+    "left": 302.0,
+    "right": 351.5808,
+    "baseline": 223,
+    "size": 9
+  },
+  {
+    "text": "04 / REPEAT ON A LATTICE",
+    "left": 444.0,
+    "right": 485.8084,
+    "baseline": 69,
+    "size": 9
+  },
+  {
+    "text": "d = 1.65u / offset = d / 2",
+    "left": 444.0,
+    "right": 484.43150833333334,
+    "baseline": 209,
+    "size": 11
+  },
+  {
+    "text": "x = d [i + (j mod 2) / 2]",
+    "left": 444.0,
+    "right": 475.486475,
+    "baseline": 218,
+    "size": 9
+  },
+  {
+    "text": "y = (√3 / 2) d j · 전체 모듈 회전 0°",
+    "left": 444.0,
+    "right": 490.688375,
+    "baseline": 223,
+    "size": 9
+  },
+  {
+    "text": "01  LOCAL JOINT",
+    "left": 18.0,
+    "right": 48.91638611111111,
+    "baseline": 260,
+    "size": 11
+  },
+  {
+    "text": "한 모듈 내부의 교류",
+    "left": 90.0,
+    "right": 121.16862222222223,
+    "baseline": 286,
+    "size": 11
+  },
+  {
+    "text": "개별 업무 날개 사이의 소규모 협의 공간.",
+    "left": 90.0,
+    "right": 141.9176,
+    "baseline": 299,
+    "size": 9
+  },
+  {
+    "text": "세 방향의 경계에서 짧게 만나는 장소.",
+    "left": 90.0,
+    "right": 138.28539999999998,
+    "baseline": 304,
+    "size": 9
+  },
+  {
+    "text": "형상 확대도 / 각 유형에서 대표 접합 1개 추출",
+    "left": 18.0,
+    "right": 66.64629166666666,
+    "baseline": 367,
+    "size": 7.5
+  },
+  {
+    "text": "02  SHARED SEAM",
+    "left": 206.0,
+    "right": 240.1838138888889,
+    "baseline": 260,
+    "size": 11
+  },
+  {
+    "text": "두 이웃 모듈의 공유 띠",
+    "left": 278.0,
+    "right": 313.60797777777776,
+    "baseline": 286,
+    "size": 11
+  },
+  {
+    "text": "팀 경계를 가로지르는 공동 작업·검토 장소.",
+    "left": 278.0,
+    "right": 333.927625,
+    "baseline": 299,
+    "size": 9
+  },
+  {
+    "text": "삼중 결절점으로 넓어지는 진입부.",
+    "left": 278.0,
+    "right": 321.942,
+    "baseline": 304,
+    "size": 9
+  },
+  {
+    "text": "형상 확대도 / 각 유형에서 대표 접합 1개 추출",
+    "left": 206.0,
+    "right": 254.64629166666666,
+    "baseline": 367,
+    "size": 7.5
+  },
+  {
+    "text": "03  COLLECTIVE NODE",
+    "left": 394.0,
+    "right": 437.08192777777776,
+    "baseline": 260,
+    "size": 11
+  },
+  {
+    "text": "세 이웃 모듈의 공유 노드",
+    "left": 466.0,
+    "right": 505.1780888888889,
+    "baseline": 286,
+    "size": 11
+  },
+  {
+    "text": "서로 다른 팀이 만나는 공동 자원·회의 장소.",
+    "left": 466.0,
+    "right": 522.638825,
+    "baseline": 299,
+    "size": 9
+  },
+  {
+    "text": "이 중첩은 실내로 유지하고 중정과 구분한다.",
+    "left": 466.0,
+    "right": 523.0484,
+    "baseline": 304,
+    "size": 9
+  },
+  {
+    "text": "형상 확대도 / 각 유형에서 대표 접합 1개 추출",
+    "left": 394.0,
+    "right": 442.6462916666667,
+    "baseline": 367,
+    "size": 7.5
+  },
+  {
+    "text": "비우는 규칙: 모듈 안의 T는 중정. 모듈 사이의 중첩은 공유 실내. 반복으로 남는 자연 틈은 별도의 외부 마당.",
+    "left": 18.0,
+    "right": 170.6998611111111,
+    "baseline": 393,
+    "size": 10
+  },
+  {
+    "text": "발표자료 마지막 M4 스터디의 정규화 모듈을 계승한 설계 가설. 원본 Fruchter House의 정확한 치수 또는 원래 용도를 뜻하지 않는다.",
+    "left": 18.0,
+    "right": 154.32451638888884,
+    "baseline": 415,
+    "size": 7.1
+  },
+  {
+    "text": "NTS / DESIGN PROPOSAL",
+    "left": 545.3121433333333,
+    "right": 576.0,
+    "baseline": 415,
+    "size": 7.1
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "path": "Fruchter_Shared_Office_A2.pdf",
+    "bytes": 889218,
+    "sha256": "b35bc2c49d023c272a4be846908cad36b5d9676c8ca732880a901316c77c75e7"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5001,
+    "sha256": "edde66501bd05b1ac9f9bc6f4b3de9585e7abdb51808594ff8c723726d62a3d2"
+  },
+  {
+    "path": "assets/D3-LICENSE.txt",
+    "bytes": 731,
+    "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4"
+  },
+  {
+    "path": "assets/InstrumentSans-OFL.txt",
+    "bytes": 4403,
+    "sha256": "bf4dc6d13a8cccd4807133c77a1ee9619a16b92cb23322258725ab6731c2f6e5"
+  },
+  {
+    "path": "assets/InstrumentSans-Regular.ttf",
+    "bytes": 68028,
+    "sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87"
+  },
+  {
+    "path": "assets/NotoSansKR-OFL.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  {
+    "path": "assets/NotoSansKR-Study.ttf",
+    "bytes": 6223476,
+    "sha256": "00b3e368ffdce00bf3d0dd3566a9a85d9b92cb4025fb0052807324a862244f4e"
+  },
+  {
+    "path": "assets/Pardesco-MIT-LICENSE.txt",
+    "bytes": 1081,
+    "sha256": "c241852cafe31a42ffb9c28b4c4ea777c259fb18de0af2adc3e46e000148818c"
+  },
+  {
+    "path": "assets/Pardesco-viewer-template.html",
+    "bytes": 33565,
+    "sha256": "288d9509d6f76d8ee24f7c903530bb7f0ca415aeaf03d16c13dd781f61eb8a0c"
+  },
+  {
+    "path": "assets/d3.v7.min.js",
+    "bytes": 279706,
+    "sha256": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539"
+  },
+  {
+    "path": "design/cases.json",
+    "bytes": 464075,
+    "sha256": "fe9a7b0111303e621428fadda214e7f56d60cb71bdc74283f1a773373de7e6a7"
+  },
+  {
+    "path": "design/design-philosophy.md",
+    "bytes": 1427,
+    "sha256": "46a103f301d355917757eb7194adb2220808e92445453d5f4f6960d8ac7d0a89"
+  },
+  {
+    "path": "design/design-reasoning.md",
+    "bytes": 4654,
+    "sha256": "682c5c923ee82e0a2091fc39c9831269c594fc815e2fc78cd3db7058a7c2b2b1"
+  },
+  {
+    "path": "design/hatch-paths.json",
+    "bytes": 392426,
+    "sha256": "3fdb15a54c8eb0ebf2e69eca192e2aac7c0c334400470394be944bd56c8d1f8e"
+  },
+  {
+    "path": "design/selected.json",
+    "bytes": 119957,
+    "sha256": "65fb35826b5e29f5229000acaef76dfdac2cc4cc7f6a66dee43b24acc9f9b90c"
+  },
+  {
+    "path": "design/skills-installed.json",
+    "bytes": 945,
+    "sha256": "0fb24d6cbea88deef3a857bfdd6e0cdbfc23257dd339c18835afb8cad5b3c14e"
+  },
+  {
+    "path": "design/source-study.json",
+    "bytes": 215261,
+    "sha256": "277c995462ef1cbd1cb9ae35f7e5a947cf8c09162f36174288698a47bf6f57a2"
+  },
+  {
+    "path": "output/01_Array_Rules.pdf",
+    "bytes": 260872,
+    "sha256": "ceafdb75677390cecdd5228811d801ce26cb0c1f499c83e282355a0304eba6cd"
+  },
+  {
+    "path": "output/01_Array_Rules.png",
+    "bytes": 493575,
+    "sha256": "d453f39bfcb0d7aa315bb5f6dcadb5e60d288def08ca226a2ef04ec017ffb98b"
+  },
+  {
+    "path": "output/01_Array_Rules.svg",
+    "bytes": 81846,
+    "sha256": "23682e842dc351cbb453231b28da39710edc242f2282853220be51db1b022591"
+  },
+  {
+    "path": "output/01_Array_Rules_outlined.svg",
+    "bytes": 413486,
+    "sha256": "a0e9f604170110215672b6e9ade815436d0edd7db5280d7a35b7574b8520b1c7"
+  },
+  {
+    "path": "output/02_Module_and_Overlap.pdf",
+    "bytes": 214831,
+    "sha256": "9bae7ab73afbde1ae74ac51ad0282200f20577b708e892202c1d5c1dd9903336"
+  },
+  {
+    "path": "output/02_Module_and_Overlap.png",
+    "bytes": 314800,
+    "sha256": "dfb20fb00a34ed89a94c7828f422f6d3892806c95d3ec47045999e23fa98552e"
+  },
+  {
+    "path": "output/02_Module_and_Overlap.svg",
+    "bytes": 19089,
+    "sha256": "c2314adc6a75b638cce4b4be9abfbae6dbb9c94b1bc14095c6537cb9a0ea3acd"
+  },
+  {
+    "path": "output/02_Module_and_Overlap_outlined.svg",
+    "bytes": 307670,
+    "sha256": "1f0397317d3656bb0d7aa5b8d863fbf18b03ae2bd2b012f0ae59bd246bbc9eb5"
+  },
+  {
+    "path": "output/03_Figure_Ground.pdf",
+    "bytes": 83529,
+    "sha256": "f0fcf75d7f9ad402e0d40a33c4cf7833cf5cf935e0d1e32fb268c1082ad7ba1e"
+  },
+  {
+    "path": "output/03_Figure_Ground.png",
+    "bytes": 215853,
+    "sha256": "1d1b199909aa2e42b7ef8cd556bcc235072f86991afcb16fe91a384e4323cc8a"
+  },
+  {
+    "path": "output/03_Figure_Ground.svg",
+    "bytes": 8463,
+    "sha256": "787b78ffe482e10738ce305484e9f606dfd04390950fae5e740a56ea59fa3ab6"
+  },
+  {
+    "path": "output/03_Figure_Ground_outlined.svg",
+    "bytes": 121266,
+    "sha256": "57b6e847130700194035b9c4c8862d151be118426f7de589b0a9d3722babd89d"
+  },
+  {
+    "path": "output/04_Directional_Overlap.pdf",
+    "bytes": 136017,
+    "sha256": "d1c2c7e60b5089a48964158a27131968e2a70aee5dd6a1e1fe4687258ea39e81"
+  },
+  {
+    "path": "output/04_Directional_Overlap.png",
+    "bytes": 2401195,
+    "sha256": "ab1e68aea7c641b92d50b52dbd454c3586d410dd3142e4a523799410964cadad"
+  },
+  {
+    "path": "output/04_Directional_Overlap.svg",
+    "bytes": 347852,
+    "sha256": "a44a3c9893a50e64d40fee52b1ad6da7807eb7a632cae6aec3d127d81d3c9c0c"
+  },
+  {
+    "path": "output/04_Directional_Overlap_outlined.svg",
+    "bytes": 463338,
+    "sha256": "7d8edd30ab80e9755cadb864d5a486ab1e5882825ed496d0e4fab31c5eb60c44"
+  },
+  {
+    "path": "output/05_Shared_Office.pdf",
+    "bytes": 145802,
+    "sha256": "3572592e80e6af4535ae745c6e16e5584151524220c9cdcf140de32c259864b1"
+  },
+  {
+    "path": "output/05_Shared_Office.png",
+    "bytes": 544864,
+    "sha256": "09fb0000761f99980a52f35da41b27ca9da41e41eb906cae22bc1d726b729572"
+  },
+  {
+    "path": "output/05_Shared_Office.svg",
+    "bytes": 63063,
+    "sha256": "bec27303465f2c3064d1eef300903371bf97e88d671d448b0406e491401c660f"
+  },
+  {
+    "path": "output/05_Shared_Office_outlined.svg",
+    "bytes": 242765,
+    "sha256": "b4a536dc6d6a800779da177563ab36a07ac33cfbbf942656bb8c60196445e699"
+  },
+  {
+    "path": "output/Clean_Figure_Ground.pdf",
+    "bytes": 2172,
+    "sha256": "e549bb2bb399a0f5417b23ad79bd659d7877c6e3c98af0c610b5f516a59aa3fa"
+  },
+  {
+    "path": "output/Clean_Figure_Ground.png",
+    "bytes": 426854,
+    "sha256": "9c8778915cedffe068b4d14a2f28f4ff4de402c649e52bb733a7d04efbaf5695"
+  },
+  {
+    "path": "output/Clean_Figure_Ground.svg",
+    "bytes": 5549,
+    "sha256": "551d44f49ff472a53082b7b5f7128d9d4d6422ea4a1a2bc497a6c328e161745d"
+  },
+  {
+    "path": "output/Clean_Figure_Ground_outlined.svg",
+    "bytes": 5549,
+    "sha256": "551d44f49ff472a53082b7b5f7128d9d4d6422ea4a1a2bc497a6c328e161745d"
+  },
+  {
+    "path": "output/Clean_Layered_Hatch.pdf",
+    "bytes": 50622,
+    "sha256": "9381627786ddc5db01999348de8fb6be69f03146f5787fb54da9da81feb0b015"
+  },
+  {
+    "path": "output/Clean_Layered_Hatch.png",
+    "bytes": 7030923,
+    "sha256": "7baa2534c8abc9fc0c158f714a97f313266fd8869dee80a796b56ac4bf4f39be"
+  },
+  {
+    "path": "output/Clean_Layered_Hatch.svg",
+    "bytes": 344379,
+    "sha256": "c427ffb863d469a6eca8d3893d07c584cfdc7bd00f8697ea37985b06a2388c5b"
+  },
+  {
+    "path": "output/Clean_Layered_Hatch_outlined.svg",
+    "bytes": 344379,
+    "sha256": "c427ffb863d469a6eca8d3893d07c584cfdc7bd00f8697ea37985b06a2388c5b"
+  },
+  {
+    "path": "output/Directional_Hatch_Studio.html",
+    "bytes": 287667,
+    "sha256": "f7d6aa3295f35fab5667e6de8dc1e2cbf2b9d3d398a251cafce951848b225d8d"
+  },
+  {
+    "path": "output/Office_Field_2D.3dm",
+    "bytes": 605377,
+    "sha256": "977f720103d10f99e7e185f26a057784d1ba67d37ce04c7be89e323b8cb2334a"
+  },
+  {
+    "path": "output/Office_Field_Explorer.html",
+    "bytes": 1260891,
+    "sha256": "f199172e08018a696404c2b978e540c9c61f869594b642d6c2680a5ffd4870e1"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 97,
+    "sha256": "490df26c7b155f1a22cb90ee485f1d3878f46843cb289eda430bb8f1a680907d"
+  },
+  {
+    "path": "review/01_Array_Rules-text-bounds.json",
+    "bytes": 5745,
+    "sha256": "59e592a8cac8c42b68f922762b68b9548a5a2f01d573ab99f776f16e64f79129"
+  },
+  {
+    "path": "review/02_Module_and_Overlap-text-bounds.json",
+    "bytes": 6342,
+    "sha256": "210ad1e55de605578126b1440931ea139de705da5f79e70c8c94b0dcbc515c99"
+  },
+  {
+    "path": "review/03_Figure_Ground-text-bounds.json",
+    "bytes": 1824,
+    "sha256": "bf592fb9fb6cdd74646a2f40eb8b1fd909d5b8a58ea7b2a79460949a2e115850"
+  },
+  {
+    "path": "review/04_Directional_Overlap-text-bounds.json",
+    "bytes": 1943,
+    "sha256": "46acb3a5ea2869e981216c96cb133e99d1f13c1ef55ba61e755b0d3c54250d32"
+  },
+  {
+    "path": "review/05_Shared_Office-text-bounds.json",
+    "bytes": 4833,
+    "sha256": "f47f9aea4e2869a7d7e25c7c1a3532b4ec9138cce4622dca2ba5ce1ba6a2db59"
+  },
+  {
+    "path": "review/Clean_Figure_Ground-text-bounds.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "review/Clean_Layered_Hatch-text-bounds.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "review/boards-contact.png",
+    "bytes": 455070,
+    "sha256": "b77a443cb00017319ee8d115607db8a86483443ae627c9022602550a95c8cbcb"
+  },
+  {
+    "path": "review/browser-qa.json",
+    "bytes": 391,
+    "sha256": "9325040727eaa52f07024317f2be4e421624f590d28cbdf296ecb1b9e2489080"
+  },
+  {
+    "path": "review/d3-explorer.png",
+    "bytes": 415865,
+    "sha256": "831379497cf7fe9758d5cb93b32d447fa8ef3ca5a8653484083defff152a4c20"
+  },
+  {
+    "path": "review/d3-export.svg",
+    "bytes": 271826,
+    "sha256": "e1d552f223952206da8f4998467e15a9463c4f03bf60a515bf0c3c38966c8834"
+  },
+  {
+    "path": "review/file-checks.json",
+    "bytes": 1294,
+    "sha256": "2153ea129a990c5c06a07a81829c202f034efb4d4374b97607d15f1372d47570"
+  },
+  {
+    "path": "review/hatch-print-check.png",
+    "bytes": 5880850,
+    "sha256": "be822282c79fbc75a18beaa6555e69a8dcdc0112b69617c1f969902fedd0383f"
+  },
+  {
+    "path": "review/hatch-print-crop.png",
+    "bytes": 188112,
+    "sha256": "918c70b42166a85a34804ad62a8a3372d2b235e4db9883f3788ab061e6cd2201"
+  },
+  {
+    "path": "review/hatch-round1.png",
+    "bytes": 743493,
+    "sha256": "082fd4f57b19d75a3821b704076d15ecc041803ed5a934e5f4055e5fbf6e1d89"
+  },
+  {
+    "path": "review/hatch-round2.png",
+    "bytes": 804708,
+    "sha256": "0854a62393e5045e57a2618a5cb7b27a7e8d5fc077dd83e9ad9d1bcd514c82bd"
+  },
+  {
+    "path": "review/rhino-roundtrip.json",
+    "bytes": 438,
+    "sha256": "055ebd371886a4edeef022f9d8a06b5a57fe5997b88a6f251813dc4452e1eeaa"
+  },
+  {
+    "path": "review/studio-export.svg",
+    "bytes": 104689,
+    "sha256": "948febe08d6eff4adb47d6c2b25d575130eee98f103e2dfdd2953c1284b0c262"
+  },
+  {
+    "path": "review/visual-critique.md",
+    "bytes": 2944,
+    "sha256": "952b07074dc828649b69d6f2459f52f74ca34be5c7ca4ca1a1962c8ceeb80100"
+  },
+  {
+    "path": "scripts/Rhino8_import.py",
+    "bytes": 1535,
+    "sha256": "fec5b4744d4f461da17db242988f8a5faf73aceed56d2a630b79dbfd99e0c46c"
+  },
+  {
+    "path": "scripts/boards.py",
+    "bytes": 8729,
+    "sha256": "eaab44f59b085955211d3b7fdb208922a9154a1ddee27bae0fd95fd6bb2c3e68"
+  },
+  {
+    "path": "scripts/browser_qa.py",
+    "bytes": 1948,
+    "sha256": "d7d889d19f8846b5298de1630fbdff71daa463a907ebb9aa7d87a953aedfd6ae"
+  },
+  {
+    "path": "scripts/develop.py",
+    "bytes": 3628,
+    "sha256": "c26f40144f1e249f6382ac2a1cec2b06d9ae95be730fc78fcf5a53905719b8db"
+  },
+  {
+    "path": "scripts/draw.py",
+    "bytes": 2412,
+    "sha256": "328ee93081edc15952f75dfe1899d458e8938df86335bd7c10b4bf17c7b5bd3f"
+  },
+  {
+    "path": "scripts/geometry.py",
+    "bytes": 3447,
+    "sha256": "d396e5fb385d9b2d6cc067b6e4e023fff6387620eb9d7b493d776b83ad001e9f"
+  },
+  {
+    "path": "scripts/graphics.py",
+    "bytes": 7041,
+    "sha256": "1b254a6acff5de09a10f168169cebb08802698e02d9ff230e643a85001e0f22f"
+  },
+  {
+    "path": "scripts/hatching.py",
+    "bytes": 2404,
+    "sha256": "9897b889354178da779f1872cbb7ee94e2e5e5dffdffaca03d273bff9bdf0648"
+  },
+  {
+    "path": "scripts/interactive.py",
+    "bytes": 5278,
+    "sha256": "9c91b1d35ef1220d63c5090e1334b1eab35505deb4832fe88a2744cac2f68128"
+  },
+  {
+    "path": "scripts/package.py",
+    "bytes": 2813,
+    "sha256": "a1c162ad3a492c8f5d5819079b10885a2efaea4613f801803e91958e3172e1c6"
+  },
+  {
+    "path": "scripts/print_exports.py",
+    "bytes": 291,
+    "sha256": "bc89b69729b92b61e0deea109950c3e31b1eaab6faedb04fbd99d122f7ec3b4b"
+  },
+  {
+    "path": "scripts/review_viewer.py",
+    "bytes": 752,
+    "sha256": "dc25d47734221e0680dd833fb41b01e29460046a3f07400300adf0fa15c3d282"
+  },
+  {
+    "path": "scripts/review_viewer_round2.py",
+    "bytes": 883,
+    "sha256": "0eda150b68aeefcb4333c103cc476b92f20a98396f777b6c2d27d9cedf62b361"
+  },
+  {
+    "path": "scripts/rhino_export.py",
+    "bytes": 1976,
+    "sha256": "8e5e5bd0fb1d01f80feac2336c640eb0dc86af2d713496ef217282f133a034ff"
+  }
+]
