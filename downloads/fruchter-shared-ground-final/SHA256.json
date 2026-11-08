@@ -1,0 +1,22 @@
+{
+  "Fruchter_Shared_Ground_Final_A2.pdf": {
+    "bytes": 932536,
+    "sha256": "159daaa194d9e1dd82977d11197ada40875f7be285582b23fa3f8ea8945c0e07"
+  },
+  "Fruchter_Shared_Ground_Editable.zip": {
+    "bytes": 17490979,
+    "sha256": "6c1dc62d1c1131636e7392b8839baa14bc897d149cdbc9887d9bc8408e0514de"
+  },
+  "Colored_Figure_Ground.png": {
+    "bytes": 572790,
+    "sha256": "a251be054451145f90b4dead4366253522264b1dc7de5ae3aa8734a9f0a838b5"
+  },
+  "Fruchter_Final_Overview.png": {
+    "bytes": 923020,
+    "sha256": "d9190ac338bf0d9048f2612553e88c1910913a377fb9e7795460b2301b89d44f"
+  },
+  "README.md": {
+    "bytes": 5242,
+    "sha256": "426fb9000a80d5c620f37e5ff8be3b70429b6526d06b31c51a4c82c502091107"
+  }
+}
