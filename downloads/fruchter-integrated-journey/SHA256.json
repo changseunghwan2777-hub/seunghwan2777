@@ -1,0 +1,26 @@
+{
+  "Fruchter_Integrated_Journey_A2.pdf": {
+    "bytes": 2330181,
+    "sha256": "305ceb897349cd98e24c4d01cbabfda2cda336554eeee9d0f90c4f97de58514a"
+  },
+  "Fruchter_Journey_Overview_A2.pdf": {
+    "bytes": 409711,
+    "sha256": "ee5e8df20f9ef180c160a06de536a9f1f843a3309fc6e8698a2f55360a3d9209"
+  },
+  "Fruchter_Integrated_Editable.zip": {
+    "bytes": 20714469,
+    "sha256": "1f5953b46108b07e468a83e8f85b904b0d78e8c67ee84580a8ef5b7728cf5fa3"
+  },
+  "Fruchter_Integrated_Contact_Sheet.png": {
+    "bytes": 1140929,
+    "sha256": "b7055856322d607a0a03ee2e5e79dfa4bbcab2b04031625613f4e8e688472d05"
+  },
+  "Fruchter_Journey_Overview.png": {
+    "bytes": 643133,
+    "sha256": "445c096b0ac0b198ea16c37323cd44544979b99c46ac56c318f27d34af5530bb"
+  },
+  "README.md": {
+    "bytes": 6609,
+    "sha256": "ffcb8e185c60c35882c15170e04b61a0f13ea15e8f3709a9682975a882e00dba"
+  }
+}
